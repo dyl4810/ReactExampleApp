@@ -10,5 +10,3 @@
  - checkout commit: going back in time and seeing history. Not altering anything.
  - revert commit: stil very commit, not quite (Undo particular commit)
  - Reset commit: unsafe, might ruin your repository (permanently go back in time)
-
- 7. I want to delete this.
