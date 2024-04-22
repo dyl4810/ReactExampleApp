@@ -5,4 +5,4 @@
  2. git status -> this checks if the git is staged or not. Git stages the file by git add before commiting.
  3. git commit -m "text here", where -m stands for message.
  4. git log -> you can see all changes.
- 5. git log --oneline
+ 5. git log --oneline adf
