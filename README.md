@@ -13,6 +13,11 @@
                  If you don't want the code to hang around you cand do git reset ... --hard
  - git revert ... , git checkout ... , git reset ..., git reset ... --hard
  7. you can branch out and then merge back into master.
+ - git branch **branch name** (creates branch)
+ - git checkout -b **branch name** (creates branch and checks out)
  - git branch -a (see all branches)
  - git checkout **branch name** -> (switch branch)
- 
+ - git branch -D **exampleBranch** -> (delete branch without merging)
+ - git branch -d **exampleBranch** -> (delete branch after merging)
+ - git merge **branch name** (first switch to the branch and then merge)
+
