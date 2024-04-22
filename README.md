@@ -13,3 +13,6 @@
                  If you don't want the code to hang around you cand do git reset ... --hard
  - git revert ... , git checkout ... , git reset ..., git reset ... --hard
  7. you can branch out and then merge back into master.
+ - git branch -a (see all branches)
+ - git checkout **branch name** -> (switch branch)
+ 
