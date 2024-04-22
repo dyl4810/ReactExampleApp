@@ -10,3 +10,5 @@
  - checkout commit: very safe, not going to edit or alter history
  - revert commit: stil very commit, not quite (Undo particular commit)
  - Reset commit: unsafe, might ruin your repository (permanently go back in time)
+
+ 7. I want to delete this.
