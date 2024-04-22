@@ -10,3 +10,5 @@
  - checkout commit: going back in time and seeing history. Not altering anything. Just checkout master to go to current version.
  - revert commit: Undo/delete particular commit. It doesn't delete log but commits one more log with reverted state.
  - Reset commit: Permanently go back in time. But the codes still hangs around in the editor as uncommited code.
+                 If you don't want the code to hang around you cand do git reset ... --hard
+ - git revert ... , git checkout ... , git reset ...
