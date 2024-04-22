@@ -6,3 +6,7 @@
  3. git commit -m "text here", where -m stands for message.
  4. git log -> you can see all changes.
  5. git log --oneline adf
+ 6. checkout commit, revert commit, reset commit
+ - checkout commit: very safe, not going to edit or alter history
+ - revert commit: stil very commit, not quite
+ - Reset commit: unsafe, might ruin your repository
