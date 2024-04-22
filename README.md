@@ -7,6 +7,6 @@
  4. git log -> you can see all changes.
  5. git log --oneline adf
  6. checkout commit, revert commit, reset commit
- - checkout commit: going back in time and seeing history. Not altering anything.
- - revert commit: stil very commit, not quite (Undo particular commit)
- - Reset commit: unsafe, might ruin your repository (permanently go back in time)
+ - checkout commit: going back in time and seeing history. Not altering anything. Just checkout master to go to current version.
+ - revert commit: Undo/delete particular commit. It doesn't delete log but commits one more log with reverted state.
+ - Reset commit: Permanently go back in time. But the codes still hangs around in the editor as uncommited code.
