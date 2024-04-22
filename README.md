@@ -7,7 +7,7 @@
  4. git log -> you can see all changes.
  5. git log --oneline adf
  6. checkout commit, revert commit, reset commit
- - checkout commit: very safe, not going to edit or alter history
+ - checkout commit: going back in time and seeing history. Not altering anything.
  - revert commit: stil very commit, not quite (Undo particular commit)
  - Reset commit: unsafe, might ruin your repository (permanently go back in time)
 
